@@ -1,2 +1,3 @@
 # LiFi_Software_Simulation
+LIVE DEMO : https://wokwi.com/projects/470968108227772417
 Li-Fi based wireless data transmission using Arduino Uno and LED. Encodes text into binary, transmits via LED blinking pattern, and decodes at receiver end. Demonstrates optical wireless communication concept for final year project.
